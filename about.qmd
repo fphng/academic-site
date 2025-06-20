@@ -1,0 +1,18 @@
+---
+title: "About Me"
+---
+
+# About Me
+
+I am **Your Name**, [Position] at Emory University. My research delves into causal inference, synthetic control methods, and the economic ramifications of AI in digital content. I completed my Ph.D. at [Institution], and my work appears in top journals.
+
+<figure>
+  <img src="img/profile.jpg" alt="Your Photo" class="rounded-circle mx-auto d-block" width="200">
+  <figcaption class="text-center text-muted">Your Name, Emory University</figcaption>
+</figure>
+
+## Interests
+
+- Synthetic Control & Causal Inference  
+- Graph Neural Networks for Causal Analysis  
+- Economics of AI & Content Strategy

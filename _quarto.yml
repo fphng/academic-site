@@ -1,0 +1,56 @@
+
+website:
+  title: "Your Name"
+  favicon: img/favicon.ico
+  navbar:
+    brand:
+      image: img/emory_logo.png
+      href: index.qmd
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+      - text: "Contact"
+        href: contact.qmd
+  repository: https://github.com/fphng/academic-site
+  output-dir: docs
+
+format:
+  html:
+    theme:
+      light:
+        version: 5
+        bootstrap: 5
+        primary: "#00274C"
+        secondary: "#D6A11A"
+        success: "#005A9C"
+        info: "#0072C6"
+        warning: "#FFC20E"
+        danger: "#A6192E"
+        bg: "#FFFFFF"
+        fg: "#00274C"
+        font:
+          heading: 'Lora, serif'
+          body: 'Open Sans, sans-serif'
+      dark:
+        version: 5
+        bootstrap: 5
+        primary: "#D6A11A"
+        secondary: "#00274C"
+        bg: "#00274C"
+        fg: "#F0EAD6"
+        font:
+          heading: 'Lora, serif'
+          body: 'Open Sans, sans-serif'
+    css: styles.css
+    toc: true
+    toc-depth: 2
+    code-fold: true
+    number-sections: true

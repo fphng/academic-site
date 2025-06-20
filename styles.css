@@ -1,0 +1,62 @@
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@700&family=Open+Sans:wght@400;600&display=swap');
+
+/* Global settings */
+body {
+  font-family: 'Open Sans', sans-serif;
+  line-height: 1.6;
+  background-color: #f8f9fa;
+  color: #00274C;
+}
+
+/* Hero section */
+.hero {
+  background: url('img/hero_background.jpg') center/cover no-repeat;
+  padding: 6rem 1rem;
+  text-align: center;
+  color: #ffffff;
+}
+.hero h1 {
+  font-family: 'Lora', serif;
+  font-size: 3rem;
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.6);
+}
+.hero p {
+  font-size: 1.25rem;
+  margin-top: 1rem;
+  text-shadow: 1px 1px 2px rgba(0,0,0,0.6);
+}
+
+/* Button styles */
+.btn-primary {
+  background-color: #00274C;
+  border-color: #00274C;
+  font-weight: 600;
+}
+.btn-primary:hover {
+  background-color: #001F3F;
+  border-color: #001F3F;
+}
+
+/* Card components for research entries */
+.card {
+  border: 1px solid rgba(0, 39, 76, 0.1);
+  border-radius: 0.5rem;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+.card-title {
+  font-family: 'Lora', serif;
+  color: #00274C;
+}
+
+/* Footer styling */
+footer {
+  background: #00274C;
+  color: #ffffff;
+  text-align: center;
+  padding: 2rem 1rem;
+}
+footer a {
+  color: #FFC20E;
+  text-decoration: none;
+}

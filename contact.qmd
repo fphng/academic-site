@@ -1,0 +1,14 @@
+---
+title: "Contact"
+---
+
+# Contact Me
+
+- **Email:** [you@emory.edu](mailto:you@emory.edu)<br>
+- **Office:** [Department], Emory University<br>
+- **GitHub:** [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)<br>
+- **CV:** [Download PDF](/cv/YourName_CV.pdf)
+
+<footer>
+  <p>&copy; 2025 Your Name. Built with Quarto & ❤️ at Emory University.</p>
+</footer>

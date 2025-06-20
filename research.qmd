@@ -1,0 +1,29 @@
+---
+title: "Research"
+---
+
+# Research Areas
+
+<div class="row row-cols-1 row-cols-md-2 g-4">
+
+::: {.card}
+### Distributional Synthetic Control
+Develop methods that capture distributional **text** and **image** outcomes using VAEs.
+:::
+
+::: {.card}
+### Network Spillovers
+Apply **Graph Neural Networks** to model interference in panel data.
+:::
+
+::: {.card}
+### AI Content Strategy
+Study how AI-generated content influences platform competition and engagement.
+:::
+
+::: {.card}
+### Future Directions
+Exploring multi-platform dynamics and real-time counterfactual dashboards.
+:::
+
+</div>

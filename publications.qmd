@@ -1,0 +1,21 @@
+---
+title: "Publications"
+---
+
+# Publications
+
+<section class="row row-cols-1 row-cols-md-1 g-3">
+
+::: {.card}
+**Fong, J., & Nguyen, F. (2025).** *Latent Gaussian Distributional Synthetic Control*. _Marketing Science_.
+:::
+
+::: {.card}
+**Fong, J. (2024).** *Network Spillovers in Synthetic Control Methods*. _Journal of Econometrics_.
+:::
+
+::: {.card}
+**Nguyen, F., Fong, J., & Lee, S. (2025).** *Multimodal Topic Dynamics in Social Media*. _Management Science_.
+:::
+
+</section>
